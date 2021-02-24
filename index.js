@@ -27,6 +27,7 @@ const main = async () => {
 
 main();
 
+// for multi files
 const multiFile = async () => {
   let promises = [];
   for (let item of multi) {
